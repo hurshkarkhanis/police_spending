@@ -46,12 +46,7 @@ First, I wanted to find the coorelation between welfare spending and crime rate.
 
 As expected, the graph trying to visualize this coorelation is unusable, since a lot of the blue data points are zero. The graph is very inconsistent and jagged. 
 
-
-
-
-
-
-*Corrections vs Crime*
+![alt_test](link)
 
 *Null Hypothesis (Ho): there is no correlation between corrections spending and crime rate*
 *Alternative Hypothesis (Ha): there is a correlation between corrections spending and crime rate*
