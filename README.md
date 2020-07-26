@@ -14,7 +14,9 @@ I merged the two files into one DataFrame with Pandas, a data manipulation and a
 
 ## Exploratory Data Analysis
 
-Out of curiosity, I wanted to see which cities had consistently high crime rates from 1977 to 2015, the time-span of the merged data set. I did so by ranking the top 50 annual crime rates and seeing which cities showed up most in that ranking. I created the graph with MatPlotLib, a Python data visualization library, and it is shown below.
+Out of curiosity, I wanted to see which cities had consistently high crime rates from 1977 to 2015, the time-span of the merged data set. I did so by ranking the top 50 annual crime rates and seeing which cities showed up most in that ranking. 
+
+I created the graph with MatPlotLib, a Python data visualization library, and it is shown below.
 
 ![top_crime](slideshow_prep/overall/toppers_crime.png)
 
