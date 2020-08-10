@@ -50,7 +50,7 @@ The slides are from a Google Slides presentation.
 First, I wanted to find the relationship between welfare spending and crime rate. I ran a t-test and Mann Whitney Test, but because half the welfare data was unusable, the numbers were wildly inconsistent. I was not able to make a call whether or not to reject my null hypothesis. 
 
 
-![welfare_stats](slideshow_prep/overall/welfare_crime_slide.png)
+![welfare_stats](slideshow_prep/overall/welfare_relation.png)
 
 
 As expected, the graph trying to visualize this relationship is unusable, since a lot of the blue data points are zero. The graph is very inconsistent and jagged. 
@@ -63,7 +63,7 @@ Next, I wanted to find the relationship between corrections spending and crime r
 
 
 
-![jail_stats](slideshow_prep/overall/jail_crime_slide.png)
+![jail_stats](slideshow_prep/overall/jail_relation.png)
 
 
 
@@ -80,7 +80,7 @@ As expected, the graph trying to visualize this relationship is also unusable, s
 Finally and most of all, I wanted to find the relationship between police spending and crime rate. I ran a t-test and Mann Whitney Test, and because I had lots of valid data (99% of the data was usable), I was able to draw a conclusion and reject my null hypothesis.
 
 
-![police_stats](slideshow_prep/overall/police_crime_slide.png)
+![police_stats](slideshow_prep/overall/police_relation.png)
 
 
 
