@@ -39,7 +39,10 @@ I also wanted to do the same for police spending, corrections spending, and welf
 
 ## Statistical Tests
 
+For each spending category (welfare, corrections, and police), I split my dataset into two parts, high spending and low spending, differenciating the two by checking if they were above or below their own median. I ran tests to see if there were statistically significant differences in crime between the high spending cities and the low spending cities
+
 I ran all six of these statistical tests using SciPy, a scientific computing library with Python.
+
 The slides are from a Google Slides presentation.
 
 *Welfare vs Crime*
@@ -88,6 +91,6 @@ The graph trying to visualize this relationship makes perfect sense. As median p
 
 ## Conclusion
 
-There is a sttistically significant difference in crime in high police spending cities and crime in low police spending cities, which means there **is** a relationship between police spending and crime. Reductions in police spending can certainly increase crime, and the data proving the usefulness of welfare isn't sufficient so far.
+There is a statistically significant difference in crime in high-police-spending cities and crime in low-police-spending cities, which means there **is** a relationship between police spending and crime. Reductions in police spending can certainly increase crime rates, and the data proving the usefulness of welfare isn't sufficient so far.
 
 **Both our police systems as well as our unconsious biasses need lots of work, but the idea of "defunding the police" might need some more work too before it is put into practice.**
