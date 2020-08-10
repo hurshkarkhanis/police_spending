@@ -2,7 +2,7 @@
 
 After the horrific murder of George Floyd on May 25, 2020, Americans nationwide marched to protest the decades-long mistreatment of African Americans by law enforcement officials. From this movement came a large call to "Defund the Police", which implored city governments to move some amount of funds away from their police departments and toward [community resources like "social services, youth services, housing, education, and healthcare"](https://en.wikipedia.org/wiki/Defund_the_police). This made me ask the question...
 
-## ...is there a coorelation between police spending and crime rate?
+## ...what is the relationship between police spending and crime rate?
 
 First I had to gather data. 
 
