@@ -44,19 +44,19 @@ The slides are from a Google Slides presentation.
 
 *Welfare vs Crime*
 
-First, I wanted to find the coorelation between welfare spending and crime rate. I ran a t-test and Mann Whitney Test, but because half the welfare data was unusable, the numbers were wildly inconsistent. I was not able to make a call whether or not to reject my null hypothesis. 
+First, I wanted to find the relationship between welfare spending and crime rate. I ran a t-test and Mann Whitney Test, but because half the welfare data was unusable, the numbers were wildly inconsistent. I was not able to make a call whether or not to reject my null hypothesis. 
 
 
 ![welfare_stats](slideshow_prep/overall/welfare_crime_slide.png)
 
 
-As expected, the graph trying to visualize this coorelation is unusable, since a lot of the blue data points are zero. The graph is very inconsistent and jagged. 
+As expected, the graph trying to visualize this relationship is unusable, since a lot of the blue data points are zero. The graph is very inconsistent and jagged. 
 
 
 ![welfare_illustration](slideshow_prep/overall/illustrating_hypo_wefare_crime.png)
 
 
-Next, I wanted to find the coorelation between corrections spending and crime rate. I again ran a t-test and Mann Whitney Test but because half the corrections data was also unusable, the numbers were inconsistent again. I was not able to make a call whether or not to reject my null hypothesis. 
+Next, I wanted to find the relationship between corrections spending and crime rate. I again ran a t-test and Mann Whitney Test but because half the corrections data was also unusable, the numbers were inconsistent again. I was not able to make a call whether or not to reject my null hypothesis. 
 
 
 
@@ -64,7 +64,7 @@ Next, I wanted to find the coorelation between corrections spending and crime ra
 
 
 
-As expected, the graph trying to visualize this coorelation is also unusable, since a lot of the gray data points are zero. This graph is very jagged as well.
+As expected, the graph trying to visualize this relationship is also unusable, since a lot of the gray data points are zero. This graph is very jagged as well.
 
 
 ![jail_illustration](slideshow_prep/overall/illustrating_hypo_jail_crime.png)
@@ -74,20 +74,20 @@ As expected, the graph trying to visualize this coorelation is also unusable, si
 
 *Police vs Crime*
 
-Finally and most of all, I wanted to find the coorelation between police spending and crime rate. I ran a t-test and Mann Whitney Test, and because I had lots of valid data (99% of the data was usable), I was able to draw a conclusion and reject my null hypothesis.
+Finally and most of all, I wanted to find the relationship between police spending and crime rate. I ran a t-test and Mann Whitney Test, and because I had lots of valid data (99% of the data was usable), I was able to draw a conclusion and reject my null hypothesis.
 
 
 ![police_stats](slideshow_prep/overall/police_crime_slide.png)
 
 
 
-The graph trying to visualize this coorelation makes perfect sense. As median police spending rises, median crime rate falls. 
+The graph trying to visualize this relationship makes perfect sense. As median police spending rises, median crime rate falls. 
 
 ![police_illustration](slideshow_prep/overall/illustrating_hypo_police_crime.png)
 
 
 ## Conclusion
 
-The notion that there's a coorelation between police spending and crime can't be ruled out. A reduction in police spending can certainly increase crime, and the data proving the usefulness of welfare isn't sufficient so far.
+There is a sttistically significant difference in crime in high police spending cities and crime in low police spending cities, which means there **is** a relationship between police spending and crime. Reductions in police spending can certainly increase crime, and the data proving the usefulness of welfare isn't sufficient so far.
 
 **Both our police systems as well as our unconsious biasses need lots of work, but the idea of "defunding the police" might need some more work too before it is put into practice.**
