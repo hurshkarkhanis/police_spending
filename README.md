@@ -91,6 +91,6 @@ The graph trying to visualize this relationship makes perfect sense. As median p
 
 ## Conclusion
 
-There is a statistically significant difference in crime in high-police-spending cities and crime in low-police-spending cities, which means there **is** a relationship between police spending and crime. Reductions in police spending can certainly increase crime rates, and the data proving the usefulness of welfare isn't sufficient so far.
+There is a statistically significant difference in crime in high-police-spending cities and crime in low-police-spending cities, which means there **is** a relationship between police spending and crime. Reductions in police spending can certainly increase crime rates.
 
 **Both our police systems as well as our unconsious biasses need lots of work, but the idea of "defunding the police" might need some more work too before it is put into practice.**
